@@ -5,5 +5,5 @@
  
  ## Description
    
-   #### Spring sends messages to Exchange (rabbitmq). NOT TO QUEUE directly!
-   #### Rabbitmq has to be configure for it (through web console). Exchange:"myexchange", type "fanout" must be bind with a queue(for example "log")
+   #### Spring sends messages to Exchange (rabbitmq). NOT TO a QUEUE directly!
+   #### Rabbitmq has to be configured for it (through web console). Exchange:"myexchange", type "fanout" must be bind with a queue(for example "log")
